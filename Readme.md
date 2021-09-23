@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Илья Ивахненко](https://up.htmlacademy.ru/htmlcss/32/user/521207).
-* Наставник: [Александр Калинин]https://github.com/lawejr.
+* Наставник: [Александр Калинин](https://github.com/lawejr).
 
 ---
 
